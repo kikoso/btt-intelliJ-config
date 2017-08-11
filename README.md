@@ -5,6 +5,7 @@ A basic TouchBar configuration for IntelliJ. It includes buttons for build, debu
 
 ![Example Image][1]
 ![Example Image][2]
+![Example Image][3]
 
 Feel free to send a PR with a feature you consider meaningful.
 
